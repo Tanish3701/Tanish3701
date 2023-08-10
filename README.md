@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanish3701&label=Profile%20views&color=0e75b6&style=flat" alt="tanish3701" /> </p>
 
+- 🔭 I’m currently pursuing my Btech degree in computer science and engineering from **GL Bajaj Institute of Technology and Management**
+
+- 🌱 I’m currently learning **React**
+
 - 📫 How to reach me **tanishnagar25@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kq6agDIv2iaTR3wI2E7JkqrziuFaQssv/view?usp=sharing](https://drive.google.com/file/d/1kq6agDIv2iaTR3wI2E7JkqrziuFaQssv/view?usp=sharing)
