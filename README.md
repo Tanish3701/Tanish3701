@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **tanishnagar25@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kq6agDIv2iaTR3wI2E7JkqrziuFaQssv/view?usp=sharing](https://drive.google.com/file/d/1kq6agDIv2iaTR3wI2E7JkqrziuFaQssv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JZQxQv8mvStn-qK1RRs99c8ll3W_yvLE/view?usp=sharing](https://drive.google.com/file/d/1JZQxQv8mvStn-qK1RRs99c8ll3W_yvLE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
