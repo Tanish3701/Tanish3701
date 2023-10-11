@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 🤝 I’m looking for a new role [Software Engineer](Software Engineer)
+- 🤝 I’m looking for a new role Software Engineer
 
 - 💬 Ask me about **Django, java and MySQL**
 
