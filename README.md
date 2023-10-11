@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for a new role [Software Engineer](Software Engineer)
 
-- 💬 Ask me about **Django, Java and MySQL**
+- 💬 Ask me about **Django, java and MySQL**
 
 - 📫 How to reach me **tanishnagar25@gmail.com**
 
