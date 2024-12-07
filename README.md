@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tanish Nagar</h1>
-<h3 align="center">A passionate Btech CSE Final year student from India</h3>
+<h3 align="center">A passionate Associate SDET from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanish3701&label=Profile%20views&color=0e75b6&style=flat" alt="tanish3701" /> </p>
 
-- 🔭 I’m currently pursuing my Btech degree in computer science and engineering from **GL Bajaj Institute of Technology and Management**
+- 🔭 I have completed my Btech degree in computer science and engineering from **GL Bajaj Institute of Technology and Management**
 
 - 🌱 I’m currently learning **AWS**
 
-- 🤝 I’m looking for a new role Software Engineer
+- 🤝 I’m looking for a new role Associate SDET
 
-- 💬 Ask me about **Django, java and MySQL**
+- 💬 Ask me about **Python, Selenium, Automation Testing, Django, Java and SQL**
 
 - 📫 How to reach me **tanishnagar25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OjZZ88XS05wEl1cwXDoHQRNHpQnznwm5/view?usp=sharing](https://drive.google.com/file/d/1OjZZ88XS05wEl1cwXDoHQRNHpQnznwm5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
