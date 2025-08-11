@@ -17,7 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanish-nagar-780a70211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanish-nagar-780a70211" height="30" width="40" /></a>
+<!--
 <a href="https://instagram.com/tanish_3701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanish_3701" height="30" width="40" /></a>
+-->
 <a href="https://www.hackerrank.com/tanishnagar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanishnagar25" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tani0rl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tani0rl" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<tanishnagar25>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<tanishnagar25>/profile" height="30" width="40" /></a>
