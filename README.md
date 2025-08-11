@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for a new role Associate SDET
 
-- 💬 Ask me about **Python, Selenium, Automation Testing, Django, Java and SQL**
+- 💬 Ask me about **Python, Selenium, Automation Testing, Django, Java, C#, Mainframe, REXX and SQL**
 
 - 📫 How to reach me **tanishnagar25@gmail.com**
 
