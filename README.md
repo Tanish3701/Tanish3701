@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 🤝 I’m looking for a new role Associate SDET
+- 🤝 I’m looking for a new role (Associate SDET/ SW Engineer)
 
 - 💬 Ask me about **Python, Selenium, Automation Testing, Django, Java, C#, Mainframe, REXX and SQL**
 
