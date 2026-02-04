@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanish Nagar</h1>
-<h3 align="center">A passionate Associate SDET from India</h3>
+<h3 align="center">SW Engineer at VISA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanish3701&label=Profile%20views&color=0e75b6&style=flat" alt="tanish3701" /> </p>
 
