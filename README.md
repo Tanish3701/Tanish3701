@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanish3701&label=Profile%20views&color=0e75b6&style=flat" alt="tanish3701" /> </p>
 
-- 🔭 I have completed my Btech degree in computer science and engineering from **GL Bajaj Institute of Technology and Management**
+- 🔭 I have completed my Btech degree in Computer Science and Engineering from **GL Bajaj Institute of Technology and Management**
+
+- 💻 Ex Associate SDET at **Q2 Software**
 
 - 🌱 I’m currently learning **AWS**
 
