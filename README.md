@@ -3,7 +3,7 @@
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tanish3701&label=Profile%20views&color=0e75b6&style=flat" alt="tanish3701" />
-<a href="https://linkedin.com/in/tanishnagar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tanish-nagar-780a70211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:tanishnagar25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanishnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishnagar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanish-nagar-780a70211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishnagar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tanishnagar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanishnagar25" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tani0rl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tani0rl" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tanishnagar25/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanishnagar25 profile" height="30" width="40" /></a>
