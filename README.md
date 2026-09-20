@@ -1,3 +1,7 @@
+<p align="center">
+<img src="ascii.svg" alt="Tanish Nagar" width="380">
+</p>
+
 <h1 align="center">Hi 👋, I'm Tanish Nagar</h1>
 <h3 align="center">Software Engineer @ Visa</h3>
 
